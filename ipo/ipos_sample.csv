@@ -1,0 +1,4 @@
+name,exchange,open_date,close_date,listing_date,price_band_low,price_band_high,lot_size,issue_size_cr,fresh_issue_pct,revenue_growth_pct,profit_growth_pct,roe_pct,debt_to_equity,issue_pe,peer_pe,promoter_holding_post_pct,qib_x,nii_x,retail_x,gmp_pct,sample
+SAMPLE Alpha Manufacturing,Mainboard,2026-12-01,2026-12-03,2026-12-08,280,295,50,1200,70,22,30,19,0.4,24,31,62,38,22,9,18,True
+SAMPLE Beta Fintech,Mainboard,2026-11-10,2026-11-12,2026-11-17,400,420,35,2500,20,45,-10,-4,1.8,-1,40,38,4,2,1.5,3,True
+SAMPLE Gamma Foods SME,SME,2026-12-10,2026-12-12,2026-12-17,90,95,1200,45,100,18,16,17,0.9,16,22,68,,,,,True
